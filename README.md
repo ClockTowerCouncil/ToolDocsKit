@@ -122,4 +122,4 @@ Click the links to navigate to each repository.
 
 All tools in this list are developed and maintained by **[Jannabie](https://github.com/Jannabie)**.
 
-*Last updated: 2025*
+
