@@ -1,4 +1,4 @@
-# 🛠️ Visual Novel Engine Tools — Documentation Index
+# Visual Novel Engine Tools — Documentation Index
 
 A curated list of tools for various visual novel engines, organized alphabetically by developer.
 Click the links to navigate to each repository.
